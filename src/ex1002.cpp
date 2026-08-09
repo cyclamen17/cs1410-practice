@@ -42,13 +42,13 @@ int main() {
         pet->speak();
     }
 
-    Animal& d = *pets[0]
-    Animal& c = *pets[1]
+    Animal& d = *pets[0];
+    Animal& c = *pets[1];
     d.speak();
     c.speak();
 
-    Animal& ad = *pets[0]
-    Animal& ac = *pets[1]
+    Animal& ad = *pets[0];
+    Animal& ac = *pets[1];
     ad.speak();
     ac.speak();
 
